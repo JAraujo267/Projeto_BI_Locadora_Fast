@@ -5,4 +5,4 @@ Tema do projeto: Locadora de DVDs
 
 Entrega inicial: 30/09/2021
 
-Integrantes: Wallaf Patrick, Bruno Cavalcante, João Pedro Rodrigues, Darlan de Souza e Matheus.
+Integrantes: Wallaf Patrick, Bruno Cavalcante, João Pedro Rodrigues e Darlan de Souza.
